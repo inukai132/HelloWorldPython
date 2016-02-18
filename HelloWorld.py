@@ -1,0 +1,1 @@
+print(raw_input('Hello World! I can repeat what you tell me. What  should I say? '))
